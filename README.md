@@ -1,4 +1,4 @@
-# TDT4240-Exercise-1
+# TDT4240 Exercise 1
 First exercise in TDT4140 - Software Architecture.
 
 All tasks are solved using the cross-platform Java game development framework [LibGDX](https://libgdx.com). 
